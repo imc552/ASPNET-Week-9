@@ -14,4 +14,4 @@ Local development environment > Push code to Github repository > Commit is pushe
 
 ## Configuration
 - App settings for development and production environment
-- Logging for both development and productin environment
+- Logging for both development and production environment
