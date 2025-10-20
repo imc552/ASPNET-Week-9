@@ -1,6 +1,6 @@
 # Azure App Deployment Plan
 
-## Application Workflow
+## Deployment Workflow
 Local development environment > Push code to Github repository > Commit is pushed to build server > Deploy build to Azure App Service > Run Azure App Service
 
 ## App Service Setup
