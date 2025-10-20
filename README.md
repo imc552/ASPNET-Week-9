@@ -4,7 +4,7 @@
 Local development environment > Push code to Github repository > Commit is pushed to build server > Deploy build to Azure App Service > Run Azure App Service
 
 ## App Service Setup
-- Runtime Stack: DOTNET 9.0
+- Runtime Stack: .NET 9.0
 - App Name: [Your app name]
 - Region: US East
 
