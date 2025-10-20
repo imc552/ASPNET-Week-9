@@ -1,7 +1,7 @@
 # Azure App Deployment Plan
 
 ## Application Workflow
-Local development environment > Push code to Github repository > Commit pushed to build server > Deploy build to Azure App Service > Run Azure App Service
+Local development environment > Push code to Github repository > Commit is pushed to build server > Deploy build to Azure App Service > Run Azure App Service
 
 ## App Service Setup
 - Runtime Stack: DOTNET 9.0
